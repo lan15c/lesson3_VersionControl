@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 28, 2018
 
 ## Student Name:  
-(First and Last Name)
+Luke Nitti
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson examines version/source control and why application developers find it essential to managing application development.
+
+## View Project:
+https://lan15c.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to link a Git account to my html file
+2. How Git began, and why
+3. What the purpose of Git is, and why we use it.
 
